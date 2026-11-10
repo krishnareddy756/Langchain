@@ -1,4 +1,3 @@
-from models.chat_model import get_chat_model
+from models.chat_model import ModelFactory, get_chat_model
 
-__all__ = ["get_chat_model"]
-
+__all__ = ["ModelFactory", "get_chat_model"]
