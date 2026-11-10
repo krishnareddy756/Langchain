@@ -1,0 +1,7 @@
+# Core LangChain packages
+langchain
+langchain-community
+python-dotenv
+langchain-openai
+langchain-groq
+langchain-google-genai
